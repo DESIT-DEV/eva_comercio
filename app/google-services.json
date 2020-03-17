@@ -1,0 +1,233 @@
+{
+  "project_info": {
+    "project_number": "210555537815",
+    "firebase_url": "https://eva-sayhello-desit.firebaseio.com",
+    "project_id": "eva-sayhello-desit",
+    "storage_bucket": "eva-sayhello-desit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210555537815:android:94f757cd2718902f095cd2",
+        "android_client_info": {
+          "package_name": "com.desit.eva_clean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210555537815-sdhm1qi4irgj1qmel9iooqvrgis72o16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desit.eva_clean",
+            "certificate_hash": "ee15c6daa1e76e82d69eb9c6443638584238dd83"
+          }
+        },
+        {
+          "client_id": "210555537815-olai3m2m8ohkmj7ed6mr0b09ss8cqmcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCAUKhR920lxlBJUmsv5YbW38DtQRtruQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210555537815-olai3m2m8ohkmj7ed6mr0b09ss8cqmcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210555537815:android:12843b5f6b9f29a9095cd2",
+        "android_client_info": {
+          "package_name": "com.desit.eva_comercio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210555537815-h4lb9nm967sa9pq4hi6ntdmk8kb27j14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desit.eva_comercio",
+            "certificate_hash": "ee15c6daa1e76e82d69eb9c6443638584238dd83"
+          }
+        },
+        {
+          "client_id": "210555537815-olai3m2m8ohkmj7ed6mr0b09ss8cqmcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCAUKhR920lxlBJUmsv5YbW38DtQRtruQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210555537815-olai3m2m8ohkmj7ed6mr0b09ss8cqmcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210555537815:android:23dcde59e75b2365095cd2",
+        "android_client_info": {
+          "package_name": "com.desit.eva_con_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210555537815-9ege9gttsprsgkgjdldhrvf3a1ctj1mb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desit.eva_con_login",
+            "certificate_hash": "ee15c6daa1e76e82d69eb9c6443638584238dd83"
+          }
+        },
+        {
+          "client_id": "210555537815-olai3m2m8ohkmj7ed6mr0b09ss8cqmcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCAUKhR920lxlBJUmsv5YbW38DtQRtruQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210555537815-olai3m2m8ohkmj7ed6mr0b09ss8cqmcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210555537815:android:62a4b064d32db08f095cd2",
+        "android_client_info": {
+          "package_name": "com.desit.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210555537815-l7hn59s3d69lrqrvrgk73c3csdlqo6nn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desit.login",
+            "certificate_hash": "ee15c6daa1e76e82d69eb9c6443638584238dd83"
+          }
+        },
+        {
+          "client_id": "210555537815-olai3m2m8ohkmj7ed6mr0b09ss8cqmcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCAUKhR920lxlBJUmsv5YbW38DtQRtruQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210555537815-olai3m2m8ohkmj7ed6mr0b09ss8cqmcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210555537815:android:ae59b6572a51b2df095cd2",
+        "android_client_info": {
+          "package_name": "com.desit.login2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210555537815-2pn8c2pt330bi17b34or4olib3fia3a0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desit.login2",
+            "certificate_hash": "ee15c6daa1e76e82d69eb9c6443638584238dd83"
+          }
+        },
+        {
+          "client_id": "210555537815-olai3m2m8ohkmj7ed6mr0b09ss8cqmcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCAUKhR920lxlBJUmsv5YbW38DtQRtruQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210555537815-olai3m2m8ohkmj7ed6mr0b09ss8cqmcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210555537815:android:3624320779b55b8d095cd2",
+        "android_client_info": {
+          "package_name": "com.desit.ordeneseva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210555537815-i9mbpmrlsl0t052t82ce4b3ql578qu6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desit.ordeneseva",
+            "certificate_hash": "ee15c6daa1e76e82d69eb9c6443638584238dd83"
+          }
+        },
+        {
+          "client_id": "210555537815-olai3m2m8ohkmj7ed6mr0b09ss8cqmcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCAUKhR920lxlBJUmsv5YbW38DtQRtruQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210555537815-olai3m2m8ohkmj7ed6mr0b09ss8cqmcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
